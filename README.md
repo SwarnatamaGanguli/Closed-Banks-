@@ -1,4 +1,5 @@
 # A brief analysis of a report on closed banks in the US in recent decades
+<img width="472" height="259" alt="Analysis of closed Banks in US in the recent Decade" src="https://github.com/user-attachments/assets/4f9be2f8-53ca-419d-a15f-c3d920d6d79b" />
 
 Overview
 Total Closed Banks: 553
