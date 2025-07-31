@@ -1,5 +1,5 @@
-# Closed-Banks
-A brief analysis of a report on closed banks in the US in recent decades
+# A brief analysis of a report on closed banks in the US in recent decades
+
 Overview
 Total Closed Banks: 553
 Time Period: October 13, 2000 – June 27, 2025
